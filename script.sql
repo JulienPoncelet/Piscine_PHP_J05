@@ -1,0 +1,14 @@
+DROP DATABASE db_jponcele;
+source ex00/ex00.sql;
+use db_jponcele;
+source ex01/ex01.sql;
+SELECT * from ft_table;
+source ex02/ex02.sql;
+SELECT * from ft_table;
+source ./fiche_personne.sql;
+source ex03/ex03.sql;
+SELECT * from ft_table;
+source ex04/ex04.sql;
+SELECT * from ft_table;
+source ex05/ex05.sql;
+SELECT * from ft_table;
